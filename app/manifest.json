@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "SM TEAM BD",
+  "short_name": "SM TEAM BD",
+  "description": "SM Team BD: Your guide to digital earning & blogging.  Learn, grow, and earn online.  Join us today!",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
+      "name": "Blogger Template",
+      "short_name": "Blogger Template",
       "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "url": "/search/label/Blogger%20Template?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,10 +102,10 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
+      "name": "SM TEAM BD",
+      "short_name": "SM TEAM BD",
       "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "url": "/search/label/SM%20TEAM%20BD?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
